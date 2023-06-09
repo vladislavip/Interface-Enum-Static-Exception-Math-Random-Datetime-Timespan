@@ -1,0 +1,15 @@
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\bin\Debug\net6.0\Shooter gane.exe
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\bin\Debug\net6.0\Shooter gane.deps.json
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\bin\Debug\net6.0\Shooter gane.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\bin\Debug\net6.0\Shooter gane.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\bin\Debug\net6.0\Shooter gane.pdb
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\refint\Shooter gane.dll
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.pdb
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\Shooter gane.genruntimeconfig.cache
+C:\Users\Thinkpad PC\Desktop\3 projects way to freedom\Students Library 2\Homework 09.06.23\Homework 09.06.23\obj\Debug\net6.0\ref\Shooter gane.dll
